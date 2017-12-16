@@ -2,7 +2,7 @@
 layout: default
 title:  "Software Defined Radio Workshop"
 date:   2017-01-25 18:13:01 +0100
-categories: workshop
+categories: workshop jay
 ---
 
 Presented by: Jay
