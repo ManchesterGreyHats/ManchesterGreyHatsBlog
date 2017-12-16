@@ -1,0 +1,15 @@
+---
+layout: default
+title:  "From Z3r0 to n00bie"
+date:   2017-03-03 18:13:01 +0100
+categories: workshop
+---
+
+Presented by: Tom
+
+A talk by one of our members on the common tools and techniques used to break into a server, starting from enumeration and going to full exploitation.
+
+For anyone wanting to play along, please bring a laptop with Kali installed (a virtual machine is okay - make sure you have the latest version of wpscan by running the command "wpscan --update") as well as a copy of [this vm](https://download.vulnhub.com/mrrobot/mrRobot.ova)
+
+[slides](/files/mr_robot_walkthrough.pdf)
+
